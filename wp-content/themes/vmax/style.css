@@ -1,0 +1,77 @@
+/*
+Theme Name: Pecuária Eficiente
+Theme URI: 
+Author: HYP Digital
+Author URI: http://hyp.ag/
+Description: 
+Version: 1.0
+Tags: 
+Text Domain: 
+
+*/
+.material-777 {
+    background: #efefed url("http://pecuariaeficiente.com.br/wp-content/uploads/2018/02/boi-7772-1.jpg") no-repeat scroll center top / cover !important;
+    border-top: 5px solid #545b48;
+    min-height: 664px;
+}
+.recria-seca {
+    background: #efefed url(http://pecuariaeficiente.com.br/wp-content/uploads/2018/07/recria-seca.jpg) no-repeat scroll center top / cover !important;
+    border-top: 5px solid #545b48;
+    min-height: 664px;
+}
+.nutricao-cria {
+    background: #efefed url(http://pecuariaeficiente.com.br/wp-content/uploads/2018/02/nutricao-cria.jpg) no-repeat scroll center top / cover !important;
+    border-top: 5px solid #545b48;
+    min-height: 664px;
+}
+.recria-aguas {
+    background: #efefed url(http://pecuariaeficiente.com.br/wp-content/uploads/2018/02/recria-aguas.jpg) no-repeat scroll center top / cover !important;
+    border-top: 5px solid #545b48;
+    min-height: 664px;
+}
+@media only screen and (max-width : 480px) {
+.recria-seca {
+    background: #efefed url(http://pecuariaeficiente.com.br/wp-content/uploads/2018/07/recria-seca.jpg) no-repeat scroll center top / contain !important;
+    border-top: 5px solid #545b48;
+    min-height: 325px;
+}
+.recria-seca .spaced-period {
+    margin-top: 50%;
+}
+.nutricao-cria {
+    background: #efefed url(http://pecuariaeficiente.com.br/wp-content/uploads/2018/02/nutricao-cria.jpg) no-repeat scroll center top / contain !important;
+    border-top: 5px solid #545b48;
+    min-height: 325px;
+}
+.nutricao-cria .spaced-period {
+    margin-top: 50%;
+}
+.recria-aguas {
+    background: #efefed url(http://pecuariaeficiente.com.br/wp-content/uploads/2018/07/recria-aguas.jpg) no-repeat scroll center top / contain !important;
+    border-top: 5px solid #545b48;
+    min-height: 325px;
+}
+.recria-aguas .spaced-period {
+    margin-top: 50%;
+}
+.material-777 {
+    background: #efefed url("http://pecuariaeficiente.com.br/wp-content/uploads/2018/02/boi-7772-1.jpg") no-repeat scroll center top / contain !important;
+    border-top: 5px solid #545b48;
+    min-height: 325px;
+}
+.material-777 .spaced-period {
+    margin-top: 50%;
+}
+.material-4 {
+    background: #efefed url("../img/material-4.png") no-repeat scroll center top / contain !important;
+    border-top: 5px solid #545b48;
+    min-height: 325px;
+}
+.material-4 .spaced-period {
+    margin-top: 50%;
+}	
+}
+
+#optanon-main-info-text {
+    color: #000 !important;
+}
